@@ -5,3 +5,5 @@ hollo
 
 hollo python
 hollo word
+hollo python
+hollo java
